@@ -2,7 +2,7 @@ O projeto solar-system foi o primeiro projeto da trybe que realizamos utilizando
 Este projeto foi feito com a utilização do JSX no React, o método render, o import, foram
 criados componentes de classe, e utilizado props e as validações com PropTypes.
 
-para acessar o projeto, clone o repositório, entre na página, instale as dependências e rode a aplicação com o comando start
+para acessar o projeto, clone o repositório, entre na página, instale as dependências e rode a aplicação com o comando start:
 - git clone git@github.com:FernandaGrein/solar-system-project.git
 - cd solar-system-project
 - npm install 
